@@ -1,0 +1,1 @@
+## We are using Algerian forest fires dataset to solve all types of regressions and classification alogrithms as well as EDA and feature engineering. Meaning, it is a End to End project with deployment.
